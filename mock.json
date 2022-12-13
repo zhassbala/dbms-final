@@ -1,0 +1,564 @@
+{
+  "hospitals": [
+    {
+      "name": "Hospital A",
+      "location": "Almaty"
+    },
+    {
+      "name": "Hospital B",
+      "location": "Astana"
+    },
+    {
+      "name": "Hospital C",
+      "location": "Astana"
+    },
+    {
+      "name": "Konayev Hospital",
+      "location": "Almaty"
+    },
+    {
+      "name": "Satbayev Hospital",
+      "location": "Atyrau"
+    },
+    {
+      "name": "National Clinic",
+      "location": "Almaty"
+    }
+  ],
+  "doctors": [
+    {
+      "first_name": "Paddy" ,
+      "last_name":"O’Furniture"
+    },
+    {
+      "first_name": "Olive" ,
+      "last_name":"Yew"
+    },
+    {
+      "first_name": "Aida" ,
+      "last_name":"Bugg"
+    },
+    {
+      "first_name": "Maureen" ,
+      "last_name":"Biologist"
+    },
+    {
+      "first_name": "Teri" ,
+      "last_name":"Dactyl"
+    },
+    {
+      "first_name": "Peg" ,
+      "last_name":"Legge"
+    },
+    {
+      "first_name": "Allie" ,
+      "last_name":"Grater"
+    },
+    {
+      "first_name": "Liz" ,
+      "last_name":"Erd"
+    },
+    {
+      "first_name": "A.",
+      "last_name":" Mused"
+    },
+    {
+      "first_name": "Constance" ,
+      "last_name":"Noring"
+    },
+    {
+      "first_name": "Lois" ,
+      "last_name":"Di Nominator"
+    },
+    {
+      "first_name": "Minnie" ,
+      "last_name":"Van Ryder"
+    },
+    {
+      "first_name": "Lynn" ,
+      "last_name":"O’Leeum"
+    },
+    {
+      "first_name": "P.",
+      "last_name":" Ann O’Recital"
+    },
+    {
+      "first_name": "Ray" ,
+      "last_name":"O’Sun"
+    },
+    {
+      "first_name": "Lee" ,
+      "last_name":"A. Sun"
+    },
+    {
+      "first_name": "Ray" ,
+      "last_name":"Sin"
+    },
+    {
+      "first_name": "Isabelle" ,
+      "last_name":"Ringing"
+    },
+    {
+      "first_name": "Eileen" ,
+      "last_name":"Sideways"
+    },
+    {
+      "first_name": "Rita" ,
+      "last_name":"Book"
+    },
+    {
+      "first_name": "Paige" ,
+      "last_name":"Turner"
+    },
+    {
+      "first_name": "Rhoda" ,
+      "last_name":"Report"
+    },
+    {
+      "first_name": "Augusta" ,
+      "last_name":"Wind"
+    },
+    {
+      "first_name": "Chris" ,
+      "last_name":"Anthemum"
+    },
+    {
+      "first_name": "Anne" ,
+      "last_name":"Teak"
+    },
+    {
+      "first_name": "U.",
+      "last_name":"R. Nice"
+    },
+    {
+      "first_name": "Anita" ,
+      "last_name":"Bath"
+    },
+    {
+      "first_name": "Harriet" ,
+      "last_name":"Upp"
+    },
+    {
+      "first_name": "I.",
+      "last_name":"M. Tired"
+    },
+    {
+      "first_name": "I.",
+      "last_name":" Missy Ewe"
+    },
+    {
+      "first_name": "Ivana" ,
+      "last_name":"B. Withew"
+    },
+    {
+      "first_name": "Anita" ,
+      "last_name":"Letterback"
+    },
+    {
+      "first_name": "Hope" ,
+      "last_name":"Furaletter"
+    },
+    {
+      "first_name": "B.",
+      "last_name":" Homesoon"
+    },
+    {
+      "first_name": "Bea" ,
+      "last_name":"Mine"
+    },
+    {
+      "first_name": "Bess" ,
+      "last_name":"Twishes"
+    },
+    {
+      "first_name": "C.",
+      "last_name":" Yasoon"
+    },
+    {
+      "first_name": "Audie" ,
+      "last_name":"Yose"
+    },
+    {
+      "first_name": "Dee" ,
+      "last_name":"End"
+    },
+    {
+      "first_name": "Amanda" ,
+      "last_name":"Hug"
+    },
+    {
+      "first_name": "Ben" ,
+      "last_name":"Dover"
+    },
+    {
+      "first_name": "Eileen" ,
+      "last_name":"Dover"
+    },
+    {
+      "first_name": "Willie" ,
+      "last_name":"Makit"
+    },
+    {
+      "first_name": "Willie" ,
+      "last_name":"Findit"
+    },
+    {
+      "first_name": "Skye" ,
+      "last_name":"Blue"
+    },
+    {
+      "first_name": "Staum" ,
+      "last_name":"Clowd"
+    },
+    {
+      "first_name": "Addie" ,
+      "last_name":"Minstra"
+    },
+    {
+      "first_name": "Anne" ,
+      "last_name":"Ortha"
+    },
+    {
+      "first_name": "Dave" ,
+      "last_name":"Allippa"
+    },
+    {
+      "first_name": "Dee" ,
+      "last_name":"Zynah"
+    },
+    {
+      "first_name": "Hugh" ,
+      "last_name":"Mannerizorsa"
+    },
+    {
+      "first_name": "Loco" ,
+      "last_name":"Lyzayta"
+    },
+    {
+      "first_name": "Manny" ,
+      "last_name":"Jah"
+    },
+    {
+      "first_name": "Mark" ,
+      "last_name":"Ateer"
+    },
+    {
+      "first_name": "Reeve" ,
+      "last_name":"Ewer"
+    },
+    {
+      "first_name": "Tex" ,
+      "last_name":"Ryta"
+    },
+    {
+      "first_name": "Theresa" ,
+      "last_name":"Green"
+    },
+    {
+      "first_name": "Barry" ,
+      "last_name":"Kade"
+    },
+    {
+      "first_name": "Stan" ,
+      "last_name":"Dupp"
+    },
+    {
+      "first_name": "Neil" ,
+      "last_name":"Down"
+    },
+    {
+      "first_name": "Con" ,
+      "last_name":"Trariweis"
+    }
+  ],
+  "patients": [
+    {
+      "first_name": "Ty",
+      "last_name": "Ayelloribbin"
+    },
+    {
+      "first_name": "Hugo",
+      "last_name": "First"
+    },
+    {
+      "first_name": "Percy",
+      "last_name": "Vere"
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Aranda"
+    },
+    {
+      "first_name": "Olive",
+      "last_name": "Tree"
+    },
+    {
+      "first_name": "Fran",
+      "last_name": "G. Pani"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Quil"
+    },
+    {
+      "first_name": "Ev",
+      "last_name": "R. Lasting"
+    },
+    {
+      "first_name": "Anne",
+      "last_name": "Thurium"
+    },
+    {
+      "first_name": "Cherry",
+      "last_name": "Blossom"
+    },
+    {
+      "first_name": "Glad",
+      "last_name": "I. Oli"
+    },
+    {
+      "first_name": "Ginger",
+      "last_name": "Plant"
+    },
+    {
+      "first_name": "Del",
+      "last_name": "Phineum"
+    },
+    {
+      "first_name": "Rose",
+      "last_name": "Bush"
+    },
+    {
+      "first_name": "Perry",
+      "last_name": "Scope"
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "N. Stein"
+    },
+    {
+      "first_name": "Roy",
+      "last_name": "L. Commishun"
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "Thettick"
+    },
+    {
+      "first_name": "Percy",
+      "last_name": "Kewshun"
+    },
+    {
+      "first_name": "Rod",
+      "last_name": "Knee"
+    },
+    {
+      "first_name": "Hank",
+      "last_name": "R. Cheef"
+    },
+    {
+      "first_name": "Bridget",
+      "last_name": "Theriveaquai"
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "N. Toffis"
+    },
+    {
+      "first_name": "Karen",
+      "last_name": "Onnabit"
+    },
+    {
+      "first_name": "Col",
+      "last_name": "Fays"
+    },
+    {
+      "first_name": "Fay",
+      "last_name": "Daway"
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "V. Awl"
+    },
+    {
+      "first_name": "Wes",
+      "last_name": "Yabinlatelee"
+    },
+    {
+      "first_name": "Colin",
+      "last_name": "Sik"
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Arias"
+    },
+    {
+      "first_name": "Toi",
+      "last_name": "Story"
+    },
+    {
+      "first_name": "Gene",
+      "last_name": "Eva Convenshun"
+    },
+    {
+      "first_name": "Jen",
+      "last_name": "Tile"
+    },
+    {
+      "first_name": "Simon",
+      "last_name": "Sais"
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Owt"
+    },
+    {
+      "first_name": "Hugh",
+      "last_name": "N. Cry"
+    },
+    {
+      "first_name": "Lee",
+      "last_name": "Nonmi"
+    },
+    {
+      "first_name": "Lynne",
+      "last_name": "Gwafranca"
+    },
+    {
+      "first_name": "Art",
+      "last_name": "Decco"
+    },
+    {
+      "first_name": "Lynne",
+      "last_name": "Gwistic"
+    },
+    {
+      "first_name": "Polly",
+      "last_name": "Ester Undawair"
+    },
+    {
+      "first_name": "Oscar",
+      "last_name": "Nommanee"
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Biding"
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Norda"
+    },
+    {
+      "first_name": "Des",
+      "last_name": "Ignayshun"
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Rowe-Soft"
+    },
+    {
+      "first_name": "Anne",
+      "last_name": "T. Kwayted"
+    },
+    {
+      "first_name": "Wayde",
+      "last_name": "N. Thabalanz"
+    },
+    {
+      "first_name": "Dee",
+      "last_name": "Mandingboss"
+    },
+    {
+      "first_name": "Sly",
+      "last_name": "Meedentalfloss"
+    },
+    {
+      "first_name": "Stanley",
+      "last_name": "Knife"
+    },
+    {
+      "first_name": "Wynn",
+      "last_name": "Dozeaplikayshun"
+    },
+    {
+      "first_name": "Mal",
+      "last_name": "Ajusted"
+    },
+    {
+      "first_name": "Penny",
+      "last_name": "Black"
+    },
+    {
+      "first_name": "Mal",
+      "last_name": "Nurrisht"
+    },
+    {
+      "first_name": "Polly",
+      "last_name": "Pipe"
+    },
+    {
+      "first_name": "Polly",
+      "last_name": "Wannakrakouer"
+    },
+    {
+      "first_name": "Con",
+      "last_name": "Staninterupshuns"
+    },
+    {
+      "first_name": "Fran",
+      "last_name": "Tick"
+    },
+    {
+      "first_name": "Santi",
+      "last_name": "Argo"
+    },
+    {
+      "first_name": "Carmen",
+      "last_name": "Goh"
+    },
+    {
+      "first_name": "Carmen",
+      "last_name": "Sayid"
+    },
+    {
+      "first_name": "Norma",
+      "last_name": "Stitts"
+    },
+    {
+      "first_name": "Ester",
+      "last_name": "La Vista"
+    },
+    {
+      "first_name": "Manuel",
+      "last_name": "Labor"
+    },
+    {
+      "first_name": "Ivan",
+      "last_name": "Itchinos"
+    },
+    {
+      "first_name": "Ivan",
+      "last_name": "Notheridiya"
+    },
+    {
+      "first_name": "Mustafa",
+      "last_name": "Leek"
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Grate"
+    },
+    {
+      "first_name": "Annie",
+      "last_name": "Versaree"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Midsaylesman"
+    },
+    {
+      "first_name": "Mary",
+      "last_name": "Krismass"
+    }
+  ]
+}
