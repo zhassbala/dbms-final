@@ -175,6 +175,7 @@ class TreatmentMedicament(Medicament):
 class Referral(models.Model):
     From = models.ForeignKey(to=Doctor, on_delete=models.SET_NULL, null=True, related_name='sent_referrals')
     to = models.ForeignKey(to=Doctor, on_delete=models.SET_NULL, null=True, related_name='incoming_referrals')
+    patient = models.ForeignKey(to=Patient, on_delete=models.CASCADE, null=True)
 
 
 class Administration(Department):
